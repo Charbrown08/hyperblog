@@ -43,3 +43,12 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    color: red;
+    padding: auto;
+    border-color: antiquewhite;
+    margin: 10px;
+
+}
